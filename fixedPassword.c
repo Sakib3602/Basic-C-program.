@@ -9,11 +9,11 @@ int main()
     {
         if (X == 1999)
         {
-            printf("CORRECT");
+            printf("Correct");
             break;
         }
         else
-            printf("WRONG\n");
+            printf("Wrong\n");
     }
 
     return 0;
